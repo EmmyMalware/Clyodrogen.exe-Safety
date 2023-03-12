@@ -1,0 +1,8 @@
+C:\Users\April\source\repos\Clyodrogen-safety\Clyodrogen-safety\bin\Debug\Clyodrogen-safety.exe
+C:\Users\April\source\repos\Clyodrogen-safety\Clyodrogen-safety\bin\Debug\Clyodrogen-safety.pdb
+C:\Users\April\source\repos\Clyodrogen-safety\Clyodrogen-safety\obj\Debug\Clyodrogen-safety.csproj.AssemblyReference.cache
+C:\Users\April\source\repos\Clyodrogen-safety\Clyodrogen-safety\obj\Debug\Clyodrogen_safety.Properties.Resources.resources
+C:\Users\April\source\repos\Clyodrogen-safety\Clyodrogen-safety\obj\Debug\Clyodrogen-safety.csproj.GenerateResource.cache
+C:\Users\April\source\repos\Clyodrogen-safety\Clyodrogen-safety\obj\Debug\Clyodrogen-safety.csproj.CoreCompileInputs.cache
+C:\Users\April\source\repos\Clyodrogen-safety\Clyodrogen-safety\obj\Debug\Clyodrogen-safety.exe
+C:\Users\April\source\repos\Clyodrogen-safety\Clyodrogen-safety\obj\Debug\Clyodrogen-safety.pdb
